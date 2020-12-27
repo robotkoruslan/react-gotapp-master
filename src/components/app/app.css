@@ -1,0 +1,16 @@
+
+  .toggle-btn {
+    width: 445px;
+  height: 35px;
+  margin-bottom: 30px;
+  font-size: 17px;
+  color: rgb(13, 13, 14);
+  background-color: rgb(102, 185, 134);
+  }
+  body {
+    overflow-x: hidden;
+    background: url('img/got.jpeg') center center no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    height: 100%;	
+}
